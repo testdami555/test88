@@ -6,5 +6,5 @@ def saludar(nombre):
     print("*************************************************")    
 
 saludar("Dami")
-saludar("Coco")
+saludar("Juana")
 saludar("Juana")
